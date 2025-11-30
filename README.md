@@ -121,7 +121,7 @@ These help assess how well the model generalizes.
 1. Clone the repository:
 
 ```
-git clone https://github.com/L0adn9/ttraffic-sign-classification.git
+git clone https://github.com/L0adn9/traffic-sign-classification.git
 ```
 
 2. Install dependencies:
