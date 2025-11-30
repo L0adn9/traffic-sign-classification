@@ -38,7 +38,6 @@ You may include these in a `requirements.txt` file for easy installation.
 * **Deep Learning** (CNNs)
 * **TensorFlow/Keras**
 * **Image Preprocessing & Data Augmentation**
-* **Transfer Learning** (optional)
 * **Matplotlib / Seaborn** for visualization
 
 ---
