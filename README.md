@@ -162,6 +162,6 @@ project/
 
 ## 🏁 Conclusion
 
-This project demonstrates the full pipeline for traffic sign classification using deep learning — from dataset loading to evaluation with visualizations.
+This project demonstrates the full pipeline for traffic sign classification using deep learning, from dataset loading to evaluation with visualizations.
 
 Feel free to contribute, optimize the model, or extend the project!
