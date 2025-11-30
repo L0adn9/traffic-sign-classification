@@ -47,15 +47,15 @@ You may include these in a `requirements.txt` file for easy installation.
 
 You can download the official **GTSRB dataset**, or provide mock/simulated data using the structure below.
 
-### **Expected Directory Structure:**
-
 https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
 
 ```
 kaggle datasets download -d meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
 unzip gtsrb-german-traffic-sign.zip -d ./data/
-
 ```
+
+### **Expected Directory Structure:**
+
 You may download the official GTSRB dataset, or simulate it using the following structure:
 
 ```
